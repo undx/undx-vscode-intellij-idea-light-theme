@@ -1,10 +1,10 @@
 {
-    "name": "intellij-idea-light-theme",
-    "displayName": "Intellij IDEA light theme",
-    "description": "Idea intellij light theme",
-    "version": "0.6.0",
-    "publisher": "AlexTi",
-    "repository": "https://github.com/alexTitakoff/vscode-intellij-idea-light-theme",
+    "name": "undx-intellij-idea-light-theme",
+    "displayName": "undx Intellij IDEA light theme",
+    "description": "undx Intellij IDEA light theme",
+    "version": "0.1.0",
+    "publisher": "undx",
+    "repository": "https://github.com/undx/undx-vscode-intellij-idea-light-theme",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.77.0"
@@ -15,11 +15,10 @@
     "contributes": {
         "themes": [
             {
-                "label": "Idea intellij light theme",
+                "label": "undx Intellij IDEA light theme",
                 "uiTheme": "vs",
-                "path": "./themes/Idea intellij light theme-color-theme.json"
+                "path": "./themes/undx-intellij-idea-light-theme.json"
             }
         ]
     }
 }
-

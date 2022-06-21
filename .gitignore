@@ -1,0 +1,11 @@
+# backups
+*~
+# qemacs
+.qerc
+.qesession
+# intellij
+.idea/
+# vscode
+.vscode/**
+.vscode-test/**
+
