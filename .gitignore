@@ -8,4 +8,5 @@
 # vscode
 .vscode/**
 .vscode-test/**
-
+package-lock.json
+*.vsix
