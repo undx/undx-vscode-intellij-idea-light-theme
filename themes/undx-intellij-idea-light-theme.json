@@ -291,7 +291,8 @@ set_style("string-q",   "color",            "#458B74"); // #FFF8DC
         "keyword.control.directive",
         "entity.name.function.preprocessor",
         "keyword.control.directive.define",
-        "keyword.control.directive.include",      
+        "keyword.control.directive.include",
+        "punctuation.definition.directive"
       ],
       "settings": {
         "foreground": "#888888",
