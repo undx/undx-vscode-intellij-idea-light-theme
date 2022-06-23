@@ -12,6 +12,7 @@ Easily see what we manipulate:
 - local variables have basic variable defined color.
 
 # Changelog
+- 0.1.3 change annoying statusBar color when noFolder is active.
 - 0.1.2 C better colorize version. Add Global style explanations on README.
 - 0.1.1 fix vscode min version.
 - 0.1.0 initial commit based on my ~/.qe/config settings.
